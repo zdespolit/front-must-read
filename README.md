@@ -9,3 +9,6 @@ http://chimera.labs.oreilly.com/books/1230000000545/index.html
 Принципы работы современных веб-браузеров By Tali Garsiel and Paul Irish
 Опубликовано: Август 5th, 2011
 http://www.html5rocks.com/ru/tutorials/internals/howbrowserswork/
+
+## Angular 
+AngularJS Cheat Sheet - http://www.cheatography.com/proloser/cheat-sheets/angularjs/
