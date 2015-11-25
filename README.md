@@ -10,5 +10,10 @@ http://chimera.labs.oreilly.com/books/1230000000545/index.html
 Опубликовано: Август 5th, 2011
 http://www.html5rocks.com/ru/tutorials/internals/howbrowserswork/
 
+# Future 
+Shadow DOM https://drafts.csswg.org/css-scoping/#shadow-tree
+
 ## Angular 
 AngularJS Cheat Sheet - http://www.cheatography.com/proloser/cheat-sheets/angularjs/
+Directives - https://www.airpair.com/angularjs/posts/ng-directive-componentization-composition
+Советiки - http://www.toptal.com/angular-js/top-18-most-common-angularjs-developer-mistakes
